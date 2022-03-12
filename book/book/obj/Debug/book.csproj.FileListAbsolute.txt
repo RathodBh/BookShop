@@ -1,0 +1,7 @@
+D:\projects\book\book\bin\book.dll
+D:\projects\book\book\bin\book.pdb
+D:\projects\book\book\obj\Debug\book.dll
+D:\projects\book\book\obj\Debug\book.pdb
+D:\projects\book\book\obj\Debug\book.csprojResolveAssemblyReference.cache
+D:\projects\book\book\obj\Debug\RdlCompile.cache
+D:\projects\book\book\obj\Debug\RdlCompile.compiled
